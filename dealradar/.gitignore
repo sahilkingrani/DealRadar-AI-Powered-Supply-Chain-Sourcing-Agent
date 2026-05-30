@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+.myenv
+myenv
+
+# Ignore virtual environments
+venv/
+.venv/
+env/
+ENV/
