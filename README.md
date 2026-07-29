@@ -1,4 +1,4 @@
-# 📡 DealRadar — AI-Powered Supplier Intelligence Agent
+# 📡 DealRadar — AI Powered Supplier Intelligence Agent
 
 > Built for the Bright Data AI Agents & Web Data Hackathon
 
