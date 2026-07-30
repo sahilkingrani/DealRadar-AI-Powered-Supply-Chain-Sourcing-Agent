@@ -20,7 +20,7 @@ solves this in under 15 seconds.
 - 📡 **Live agent activity feed** showing AI working in real-time
 - ⚡ **Results in under 15 seconds**
 
-## 🤖 How It Works — 3 AI Agents
+## 🤖 How 3 AI Agents is Working 
 
 | Agent | Role | Technology |
 |-------|------|------------|
