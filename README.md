@@ -6,7 +6,7 @@ DealRadar is an intelligent multi-agent system that helps businesses find,
 verify, and analyze suppliers in real-time using Bright Data's web 
 infrastructure and Groq AI.
 
-## 🎯 Problem
+## Problem
 
 Finding reliable suppliers takes days of manual research — visiting multiple 
 websites, comparing prices, checking reviews, calculating margins. DealRadar 
